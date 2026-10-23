@@ -1,0 +1,432 @@
+[
+ {
+  "title": "קורס סקיפרים (משיט 30)",
+  "url": "https://sea-time.co.il/sailing-courses/skipper-sailing-30/",
+  "group": "ללמוד להפליג",
+  "groupId": "courses",
+  "subgroup": "קורסים",
+  "inMenu": "header",
+  "alsoInFooter": true,
+  "note": ""
+ },
+ {
+  "title": "קורס סקיפרים ביוון לרישיון בינ”ל",
+  "url": "https://sea-time.co.il/skipper-course-in-greece/",
+  "group": "ללמוד להפליג",
+  "groupId": "courses",
+  "subgroup": "קורסים",
+  "inMenu": "footer",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "קורס IYT",
+  "url": "https://sea-time.co.il/sailing-courses/iyt-sailing/",
+  "group": "ללמוד להפליג",
+  "groupId": "courses",
+  "subgroup": "קורסים",
+  "inMenu": "footer",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "קורס יאכטות 7 מטר",
+  "url": "https://sea-time.co.il/sailing-courses/7-meter-yacht/",
+  "group": "ללמוד להפליג",
+  "groupId": "courses",
+  "subgroup": "קורסים",
+  "inMenu": "footer",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "קורס GMDSS",
+  "url": "https://sea-time.co.il/sailing-courses/gmdss/",
+  "group": "ללמוד להפליג",
+  "groupId": "courses",
+  "subgroup": "קורסים",
+  "inMenu": "footer",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "ללמוד להפליג: כל הקורסים",
+  "url": "https://sea-time.co.il/sailing-courses/",
+  "group": "ללמוד להפליג",
+  "groupId": "courses",
+  "subgroup": "קורסים",
+  "inMenu": "header",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "סימולטור בחינות למשיט 30",
+  "url": "https://skipper-course-questions.sea-time.co.il/",
+  "group": "ללמוד להפליג",
+  "groupId": "courses",
+  "subgroup": "תרגול לבחינות",
+  "inMenu": "footer",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "סימולטור לבחינת GMDSS",
+  "url": "https://gmdss-simulator.sea-time.co.il/",
+  "group": "ללמוד להפליג",
+  "groupId": "courses",
+  "subgroup": "תרגול לבחינות",
+  "inMenu": "footer",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "מועדון שייט",
+  "url": "https://sea-time.co.il/yacht-club/",
+  "group": "מועדון שייט",
+  "groupId": "club",
+  "subgroup": "המועדון",
+  "inMenu": "header",
+  "alsoInFooter": true,
+  "note": ""
+ },
+ {
+  "title": "היאכטות של סי טיים",
+  "url": "https://sea-time.co.il/our-yachts/",
+  "group": "מועדון שייט",
+  "groupId": "club",
+  "subgroup": "המועדון",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "יאכטות 7 מטר",
+  "url": "https://sea-time.co.il/7-meter-yachts/",
+  "group": "מועדון שייט",
+  "groupId": "club",
+  "subgroup": "המועדון",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "תחזית מזג אוויר",
+  "url": "https://sea-time.co.il/weather/",
+  "group": "מועדון שייט",
+  "groupId": "club",
+  "subgroup": "המועדון",
+  "inMenu": "header",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "הזמנה והרשמה להפלגות",
+  "url": "https://sea-time.my.site.com/seaTimeApp/iw/",
+  "group": "מועדון שייט",
+  "groupId": "club",
+  "subgroup": "המועדון",
+  "inMenu": "header",
+  "alsoInFooter": false,
+  "note": "אזור אישי"
+ },
+ {
+  "title": "השכרת יאכטות בתל אביב",
+  "url": "https://sea-time.co.il/israel-cruise/",
+  "group": "השכרת יאכטות",
+  "groupId": "rental",
+  "subgroup": "השכרה בתל אביב",
+  "inMenu": "header",
+  "alsoInFooter": true,
+  "note": ""
+ },
+ {
+  "title": "יאכטה טוויקס",
+  "url": "https://sea-time.co.il/twix/",
+  "group": "השכרת יאכטות",
+  "groupId": "rental",
+  "subgroup": "השכרה בתל אביב",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": "קטמרן"
+ },
+ {
+  "title": "יאכטה קיט קט",
+  "url": "https://sea-time.co.il/kitcat/",
+  "group": "השכרת יאכטות",
+  "groupId": "rental",
+  "subgroup": "השכרה בתל אביב",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": "קטמרן"
+ },
+ {
+  "title": "יאכטה אננדה",
+  "url": "https://sea-time.co.il/ananda-yacht/",
+  "group": "השכרת יאכטות",
+  "groupId": "rental",
+  "subgroup": "השכרה בתל אביב",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "יאכטות רוזי ומריאן",
+  "url": "https://sea-time.co.il/sailingyacht_rosie/",
+  "group": "השכרת יאכטות",
+  "groupId": "rental",
+  "subgroup": "השכרה בתל אביב",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": "מפרש"
+ },
+ {
+  "title": "הפלגה רומנטית",
+  "url": "https://sea-time.co.il/romantic-cruise/",
+  "group": "השכרת יאכטות",
+  "groupId": "rental",
+  "subgroup": "אירועים ומתנות",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "הפלגת כיף לקבוצות",
+  "url": "https://sea-time.co.il/fun-sailing-for-groups/",
+  "group": "השכרת יאכטות",
+  "groupId": "rental",
+  "subgroup": "אירועים ומתנות",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "ימי גיבוש ופיתוח מנהלים",
+  "url": "https://sea-time.co.il/executive-development-days/",
+  "group": "השכרת יאכטות",
+  "groupId": "rental",
+  "subgroup": "אירועים ומתנות",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "יום הולדת על יאכטה",
+  "url": "https://sea-time.co.il/birthday_on_a_yacht/",
+  "group": "השכרת יאכטות",
+  "groupId": "rental",
+  "subgroup": "אירועים ומתנות",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "גיפט קארד לים",
+  "url": "https://sea-time.co.il/gift_card/",
+  "group": "השכרת יאכטות",
+  "groupId": "rental",
+  "subgroup": "אירועים ומתנות",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "פלוטילות וקורסים מתקדמים",
+  "url": "https://sea-time.co.il/annual_program/",
+  "group": "הפלגות בעולם",
+  "groupId": "abroad",
+  "subgroup": "הפלגות וקורסים 2027",
+  "inMenu": "footer",
+  "alsoInFooter": false,
+  "note": "תכנית 2027"
+ },
+ {
+  "title": "קורס קטמרן לסקיפרים",
+  "url": "https://sea-time.co.il/sailing-courses/catamaran/",
+  "group": "הפלגות בעולם",
+  "groupId": "abroad",
+  "subgroup": "הפלגות וקורסים 2027",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": "1.5.27 · אתונה"
+ },
+ {
+  "title": "פלוטילה בלפקדה, יוון",
+  "url": "https://sea-time.co.il/flotilla2/",
+  "group": "הפלגות בעולם",
+  "groupId": "abroad",
+  "subgroup": "הפלגות וקורסים 2027",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": "21.8.27"
+ },
+ {
+  "title": "קורס שייט מתקדם",
+  "url": "https://sea-time.co.il/sailing-courses/advanced-skipper/",
+  "group": "הפלגות בעולם",
+  "groupId": "abroad",
+  "subgroup": "הפלגות וקורסים 2027",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": "9.10.27 · ים האיגאי"
+ },
+ {
+  "title": "הפלגות בעולם",
+  "url": "https://sea-time.co.il/abrod_homepage/",
+  "group": "הפלגות בעולם",
+  "groupId": "abroad",
+  "subgroup": "חופשה על יאכטה",
+  "inMenu": "header",
+  "alsoInFooter": true,
+  "note": ""
+ },
+ {
+  "title": "הפלגות לקפריסין",
+  "url": "https://sea-time.co.il/sailing_to_cyprus/",
+  "group": "הפלגות בעולם",
+  "groupId": "abroad",
+  "subgroup": "חופשה על יאכטה",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "השכרת יאכטה להשטה עצמית",
+  "url": "https://sea-time.co.il/bareboat/",
+  "group": "הפלגות בעולם",
+  "groupId": "abroad",
+  "subgroup": "חופשה על יאכטה",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "מה זו חופשה על יאכטה",
+  "url": "https://sea-time.co.il/yacht_vacation/",
+  "group": "הפלגות בעולם",
+  "groupId": "abroad",
+  "subgroup": "חופשה על יאכטה",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "עלו לסיפון: סוגי היאכטות",
+  "url": "https://sea-time.co.il/yacht-types_new/",
+  "group": "הפלגות בעולם",
+  "groupId": "abroad",
+  "subgroup": "חופשה על יאכטה",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "חיפוש יאכטות להשטה בחו\"ל",
+  "url": "https://findayacht.sea-time.co.il/",
+  "group": "הפלגות בעולם",
+  "groupId": "abroad",
+  "subgroup": "חופשה על יאכטה",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": "מנוע חיפוש"
+ },
+ {
+  "title": "הסיפור של Sea Time",
+  "url": "https://sea-time.co.il/our-story/",
+  "group": "להכיר את Sea Time",
+  "groupId": "about",
+  "subgroup": "",
+  "inMenu": "header",
+  "alsoInFooter": true,
+  "note": ""
+ },
+ {
+  "title": "בלוג",
+  "url": "https://sea-time.co.il/sailing-blog/",
+  "group": "להכיר את Sea Time",
+  "groupId": "about",
+  "subgroup": "",
+  "inMenu": "footer",
+  "alsoInFooter": false,
+  "note": "מאמרים וטיפים"
+ },
+ {
+  "title": "צרו קשר",
+  "url": "https://sea-time.co.il/contactus/",
+  "group": "להכיר את Sea Time",
+  "groupId": "about",
+  "subgroup": "",
+  "inMenu": "header",
+  "alsoInFooter": true,
+  "note": ""
+ },
+ {
+  "title": "דף הבית",
+  "url": "https://sea-time.co.il/",
+  "group": "להכיר את Sea Time",
+  "groupId": "about",
+  "subgroup": "",
+  "inMenu": "footer",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "תקנון האתר",
+  "url": "https://sea-time.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%94%d7%90%d7%aa%d7%a8-2/",
+  "group": "מידע משפטי",
+  "groupId": "legal",
+  "subgroup": "",
+  "inMenu": "footer",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "הצהרת נגישות",
+  "url": "https://sea-time.co.il/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/",
+  "group": "מידע משפטי",
+  "groupId": "legal",
+  "subgroup": "",
+  "inMenu": "footer",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "תקנון ותנאים חבילות חו\"ל",
+  "url": "https://sea-time.co.il/termsabroad/",
+  "group": "מידע משפטי",
+  "groupId": "legal",
+  "subgroup": "",
+  "inMenu": "none",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "Facebook",
+  "url": "https://www.facebook.com/seatimesailingclub/",
+  "group": "עקבו אחרינו",
+  "groupId": "social",
+  "subgroup": "",
+  "inMenu": "footer",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "YouTube",
+  "url": "https://www.youtube.com/user/seatime2011",
+  "group": "עקבו אחרינו",
+  "groupId": "social",
+  "subgroup": "",
+  "inMenu": "footer",
+  "alsoInFooter": false,
+  "note": ""
+ },
+ {
+  "title": "Instagram",
+  "url": "https://www.instagram.com/seatime_sailing_club/",
+  "group": "עקבו אחרינו",
+  "groupId": "social",
+  "subgroup": "",
+  "inMenu": "footer",
+  "alsoInFooter": false,
+  "note": ""
+ }
+]
